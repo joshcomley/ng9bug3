@@ -1,0 +1,5 @@
+{
+  "port": 55001,
+  "files": ["./dist/ng9bug3/**/*.{html,htm,css,js}"],
+  "server": { "baseDir": "./dist/ng9bug3" }
+}

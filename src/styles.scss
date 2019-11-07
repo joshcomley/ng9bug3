@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+lib-label1,
+lib-label2,
+lib-label3,
+app-label1,
+app-label2,
+app-label3 {
+  display: table;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid purple;
+  background-color: rgba($color: purple, $alpha: 0.2);
+  width: auto;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
